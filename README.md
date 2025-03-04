@@ -73,11 +73,4 @@ This project is **MIT Licensed** – feel free to use and modify.
 
 ---  
 
-## 🎯 TODO  
-🔲 Add institution data (color nodes by affiliation)  
-🔲 Analyze citation networks  
-🔲 Expand search to more authors  
-
----  
-
 💡 **Developed by TLDW_Tutorials**  
